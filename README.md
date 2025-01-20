@@ -24,5 +24,3 @@ INVALID!
 ## Acknowledgments
 - This project is inspired by the Scientific Python Certification course from [FreeCodeCamp](https://www.freecodecamp.org/).
 
-## License
-This project is licensed under the MIT License.
