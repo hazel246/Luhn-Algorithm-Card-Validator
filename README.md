@@ -1,5 +1,8 @@
 # Card Verification Using Luhn Algorithm
 
+## Overview
+This program was created as part of the FreeCodeCamp curriculum to practice Python programming and problem-solving.
+
 This repository contains a Python program to validate credit card numbers using the Luhn algorithm.
 
 ## Description
